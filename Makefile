@@ -1,5 +1,5 @@
 # tool marcros
-CC := gcc
+CC := gcc-9
 CCFLAG := -Wall
 DBGFLAG := -g
 CCOBJFLAG := $(CCFLAG) -c
